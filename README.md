@@ -2,6 +2,11 @@
 
 Skeleton for simple repos that deploy functions to [Modal](modal.com).
 
+## Functionality
+- Modal boilerplate
+- Basic devtooling like Makefile commands and linting
+- Automatic deployments to Modal when pushing to main
+
 ## Workflow
 
 1. Make a virtualenv and then run `make setup`.
